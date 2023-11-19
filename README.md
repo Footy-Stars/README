@@ -1,7 +1,7 @@
 # FootyStars
 FootyStars: onchain fantasy football with real-world stakes and provable simulation.
 
-*Link to organization: https://github.com/orgs/Footy-Stars/repositories*
+*Link to repositories: https://github.com/orgs/Footy-Stars/repositories*
 
 ## Description
 FM by Sports Interactive is a fantasy football simulator with worldwide adoption, validating the demand for a life-like simulation of being a football manager. Managers can buy or sell players from the marketplace and build their own team, and pit it against teams of other managers. To win a match, besides having players with the best possible stats and attributes, managers will try to outwit each other through different tactics and configurations. 

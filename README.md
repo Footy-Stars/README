@@ -2,11 +2,11 @@
 FootyStars: onchain football manager with real-world stakes and provable simulation.
 
 Built with ❤️
-- D K [@delken_]([url](https://twitter.com/delken_))
-- 0xVincent.eth [@0xvincent_eth]([url](https://twitter.com/0xvincent_eth))
-- bae jae kka [@BroJustKiddinn]([url](https://twitter.com/BroJustKiddinn))
-- 0xhatsume [@0xhatsume]([url](https://twitter.com/0xhatsume))
-- Zk [@zklim5389]([url](https://twitter.com/zklim5389))
+- D K [@delken_](https://twitter.com/delken_)
+- 0xVincent.eth [@0xvincent_eth](https://twitter.com/0xvincent_eth)
+- bae jae kka [@BroJustKiddinn](https://twitter.com/BroJustKiddinn)
+- 0xhatsume [@0xhatsume](https://twitter.com/0xhatsume)
+- Zk [@zklim5389](https://twitter.com/zklim5389)
 
 *Link to repositories: https://github.com/orgs/Footy-Stars/repositories*
 
